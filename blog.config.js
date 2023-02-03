@@ -3,8 +3,8 @@ const BLOG = {
   author: 'Stimw',
   email: 'stimwblog@gmail.com',
   // ↓ THIS BLOG LINK, NOT YOUR SOCIAL LINK ↓
-  link: 'https://notion-next-blog-olive.vercel.app', // do not end with '/'
-  description: 'This gonna be an awesome website.',
+  link: 'https://www.stimw.com', // do not end with '/'
+  description: 'A developer who is not good at blogging',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif'] - !!deprecated, do not modify this
@@ -20,7 +20,7 @@ const BLOG = {
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   prismjs_cdn: '', // default is cloudflare, if slow you can set 'https://npm.elemecdn.com/prismjs@1.29.0/components/'
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/Pokemon',
+  socialLink: 'https://twitter.com/stimw_98',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '', // Remove the value or replace it with your own google site verification code
